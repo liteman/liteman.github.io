@@ -5,6 +5,6 @@
 layout: default
 ---
 
-# Blog
+# <a href="/blog">Blog</a>
 
 # About
