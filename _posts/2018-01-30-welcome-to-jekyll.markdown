@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Welcome to Jekyll!"
-date:   2018-01-30 10:55:07 -0500
+date:   2018-01-30
 categories: jekyll update
 ---
 
