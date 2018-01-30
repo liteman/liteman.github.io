@@ -1,5 +1,2 @@
----
-layout: default
----
 
 # Blog pages?
