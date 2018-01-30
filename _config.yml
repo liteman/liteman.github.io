@@ -25,7 +25,7 @@ github_username:  liteman
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-modernist
-plugins:
+gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-sitemap
