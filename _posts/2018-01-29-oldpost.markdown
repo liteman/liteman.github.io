@@ -3,6 +3,7 @@ title: "This is old"
 date: 2018-01-29
 ---
 
+# {{ page.title }}
 Where will this show up?
 
-{{ site.baseurl }}
+{{ page.date }}
