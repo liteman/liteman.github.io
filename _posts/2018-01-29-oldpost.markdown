@@ -1,0 +1,8 @@
+---
+title: "This is old"
+date: 2018-01-29
+---
+
+Where will this show up?
+
+{{ site.baseurl }}
