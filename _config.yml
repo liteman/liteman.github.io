@@ -17,8 +17,8 @@ title: Do The Things
 email: liteman@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Tooling around - join me in my toolery
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "liteman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://liteman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "kevinfosec"
 github_username:  liteman
 
