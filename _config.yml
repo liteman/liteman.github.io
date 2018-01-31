@@ -32,7 +32,7 @@ gems:
 
 defaults:
   - scope:
-      path: "_posts/images"
+      path: "assets/images"
     values:
       image: true
 
