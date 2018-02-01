@@ -1,0 +1,12 @@
+---
+date: 2018-06-21
+---
+
+{{ post.date }}
+{% highlight python %}
+
+def helloWorld()
+    print "Seriously?"
+    print "Still, with the hello world?"
+
+{% endhighlight }
