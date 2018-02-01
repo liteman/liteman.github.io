@@ -30,6 +30,8 @@ gems:
   - jekyll-gist
   - jekyll-sitemap
 
+highlighter: rouge
+
 defaults:
   - scope:
       path: "assets/images"
