@@ -1,6 +1,0 @@
----
-layout: post
-date: 2018-01-30 16:30:00 UTC-10
----
-
-Gettin' it done!
