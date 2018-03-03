@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-02-26 20:14:00 UTC-10
+title: Micro Corruption Walkthrough (A Series)
 ---
 
 Micro Corruption is an Embedded Security CTF found [here](https://microcorruption.com/login). The basic narrative behind the CTF is that a series of warehouses spread around the world are protected by a Bluetooth-enabled deadbolt lock. These deadbolts can _only_ be unlocked with the correct credentials supplied via the manufacturer's mobile app. Our team wants to steal things from the warehouses and we were _rightly_ left off the authorized access list. Our goal is to find some input (it might even be the password) that unlocks the lock and allows our team entry.
