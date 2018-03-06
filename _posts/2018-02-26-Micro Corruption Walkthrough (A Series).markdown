@@ -15,7 +15,7 @@ The lock is built on the MSP430 microcontroller and a lock manual is provided.
 This series will be my walk through of how I approached and _hopefully_ solved each lock.
 
 We'll start with level one - New Orleans
-`excerpt`
+<!--more-->
 
 # New Orleans
 
