@@ -74,7 +74,7 @@ I will place a break-point at the end of this function (**#0x44b0 ret**) and all
 
 Once the break point is hit, I will check the Live Memory Dump to see if there is anything like a password at memory address 0x2400.
 
-![pass_in_memory]({{"/assets/images/password_in_memory_dump.png" | absolute_url }})
+![pass_in_memory]({{"/assets/images/password_in_memory_dump.PNG" | absolute_url }})
 
 The break-point is hit and at the memory location 0x2400 ascii characters are found. ASCII strings are terminated by a null character \x00 - so I will copy all the bytes leading up to the first \x00 starting at #0x2400: 
 
