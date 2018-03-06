@@ -15,6 +15,7 @@ The lock is built on the MSP430 microcontroller and a lock manual is provided.
 This series will be my walk through of how I approached and _hopefully_ solved each lock.
 
 We'll start with level one - New Orleans
+`excerpt`
 
 # New Orleans
 
@@ -65,7 +66,7 @@ Because these byte values are clearly visible in the disassembled instructions w
 ```
 The converted string:  **/=:lp..**
 
-For a string 7 bytes long (8 with the null terminator) the manual work isn't a big deal. If this password were longer or there were some sort of decryption loop a better approach would be to let the debugger do the work. _Work smart, not hard!_
+For a string 7 bytes long (8 with the null terminator) the manual work isn't a big deal. If this password were longer or there were some sort of decryption loop, a better approach would be to let the debugger do the work. _Work smart, not hard!_
 
 I will place a break-point at the end of this function (**#0x44b0 ret**) and allow the program to run up to the break-point.
 
