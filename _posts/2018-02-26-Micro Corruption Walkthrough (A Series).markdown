@@ -4,6 +4,7 @@ date: 2018-02-26 20:14:00 UTC-10
 title: Micro Corruption Walkthrough (A Series)
 ---
 
+
 Micro Corruption is an Embedded Security CTF found [here](https://microcorruption.com/login). The basic narrative behind the CTF is that a series of warehouses spread around the world are protected by a Bluetooth-enabled deadbolt lock. These deadbolts can _only_ be unlocked with the correct credentials supplied via the manufacturer's mobile app. Our team wants to steal things from the warehouses and we were _rightly_ left off the authorized access list. Our goal is to find some input (it might even be the password) that unlocks the lock and allows our team entry.
 
 The challenge in the CTF: 
@@ -15,7 +16,11 @@ The lock is built on the MSP430 microcontroller and a lock manual is provided.
 This series will be my walk through of how I approached and _hopefully_ solved each lock.
 
 We'll start with level one - New Orleans
-<!--more-->
+<!--excerpt-->
+
+
+Walk-throughs of the other levels can be found:<br>
+[Sydney]({{ site.baseurl }}{% post_url 2018-03-17-Micro Corruption - 02 - Sydney %})
 
 # New Orleans
 
@@ -77,7 +82,7 @@ Once the break point is hit, I will check the Live Memory Dump to see if there i
 
 ![pass_in_memory]({{"/assets/images/password_in_memory_dump.PNG" | absolute_url }})
 
-The break-point is hit and at the memory location 0x2400 ascii characters are found. ASCII strings are terminated by a null character \x00 - so I will copy all the bytes leading up to the first \x00 starting at #0x2400: 
+The break-point is hit and, at the memory location 0x2400, ascii characters are found. ASCII strings are terminated by a null character \x00 - so I will copy all the bytes leading up to the first \x00 starting at #0x2400: 
 
 **/=:lp..**
 
@@ -88,6 +93,6 @@ And voila!
 ![door_unlocked]({{"/assets/images/door_unlocked.PNG" | absolute_url }})
 
 
-
+For a walk through of the next revision of this lock, click [here]({{ site.baseurl }}{% post_url 2018-03-17-Micro Corruption - 02 - Sydney %})
 
 
