@@ -4,7 +4,6 @@ date: 2018-03-17 10:26:00 UTC-10
 title: Micro Corruption - 02 - Sydney
 ---
 
-# Sydney
 
 The pop-up documentation for this new lock in Sydney - specifies that the firmware has been revised and will no longer contain the password in memory. 
 
