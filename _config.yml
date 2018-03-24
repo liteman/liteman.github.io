@@ -25,8 +25,7 @@ repository: "liteman/liteman.github.io"
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-modernist
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-modernist
 gems:
   - jekyll-feed
   - jekyll-gist
