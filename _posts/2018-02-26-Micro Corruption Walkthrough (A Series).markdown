@@ -19,8 +19,11 @@ We'll start with level one - New Orleans
 <!--excerpt-->
 
 
-Walk-throughs of the other levels can be found:<br>
-[Sydney]({{ site.baseurl }}{% post_url 2018-03-17-Micro Corruption - 02 - Sydney %})
+Walk-throughs of the other levels can be found:  
+
+
+| [Sydney]({{ site.baseurl }}{% post_url 2018-03-17-Micro Corruption - 02 - Sydney %}) |  [Hanoi]({{ site.baseurl }}{% post_url 2018-04-01-01-Micro Corruption - 03 - Hanoi %}) | Cusco (Coming Soon)  |
+
 
 # New Orleans
 
