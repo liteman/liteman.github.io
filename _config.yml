@@ -18,7 +18,7 @@ title: Do The Things
 email: liteman@protonmail.com
 description: >-
   Stop Planning, Start Doing     
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liteman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "kevinfosec"
 github_username:  liteman

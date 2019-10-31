@@ -4,4 +4,4 @@ layout: default
 
 # <a href="/blog">Blog</a>
 
-# About
+# <a href="about.html">About</a>
