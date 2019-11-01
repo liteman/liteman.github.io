@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-10-29
+date: 2019-10-31
 title: Hands-on, Ready, Go!
 author: liteman
 ---
