@@ -5,7 +5,7 @@ layout: default
 # About Me
 
 ### Day-to-Day
-Security Engineer with a wide swath of technical experience
+Security Engineer with a wide swath of technical expertise
 
 ### Coding
 - I can get around in Python.
@@ -28,5 +28,6 @@ CEH   A+  CCNP:RS*
 Twitter: [@kevinfosec](https://twitter.com/kevinfosec)  
 E-mail: liteman [at] protonmail [dot] com
 
+### [Blog](https://liteman.github.io/blog/)
 
 
