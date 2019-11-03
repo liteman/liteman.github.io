@@ -5,7 +5,7 @@ title: Hands-on, Ready, Go!
 author: liteman
 ---
 
-Since taking [Joseph Opacki's](https://www.linkedin.com/in/josephopacki/)) malware reversing course in the [GMU Digital Forensics and Cyber Analysis](https://volgenau.gmu.edu/program/view/20560) program, and later [FOR610 @ SANS](https://www.sans.org/course/reverse-engineering-malware-malware-analysis-tools-techniques) with [Lenny Zeltser](https://twitter.com/lennyzeltser)  - I've been fascinated with malware analysis and reverse engineering. Unfortunately, in the years since those classes, I have not had much professional opportunity to use the skills directly.  
+Since taking [Joseph Opacki's](https://www.linkedin.com/in/josephopacki/) malware reversing course in the [GMU Digital Forensics and Cyber Analysis](https://volgenau.gmu.edu/program/view/20560) program, and later [FOR610 @ SANS](https://www.sans.org/course/reverse-engineering-malware-malware-analysis-tools-techniques) with [Lenny Zeltser](https://twitter.com/lennyzeltser)  - I've been fascinated with malware analysis and reverse engineering. Unfortunately, in the years since those classes, I have not had much professional opportunity to use the skills directly.  
 
 I have ~~finally~~ decided to take matters in to my own hands. I can get all the practice I need through efficient use of my home lab and library.
 
